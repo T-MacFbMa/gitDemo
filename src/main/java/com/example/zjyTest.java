@@ -5,6 +5,6 @@ package com.example;
  */
 public class zjyTest {
     public static void main(String[] args) {
-        System.out.println("111111");
+        System.out.println("2222");
     }
 }
